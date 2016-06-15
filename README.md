@@ -18,4 +18,6 @@ You will need Google Cloud Platform project with the following:
 
  * Under IAM & Admin in the popout menu, create a new Service Account named "engine". Select "Furnish a new private key" with the type JSON. Save this key as engine.json in the harness directory.
 
- * Test
+ * Select "Permissions" and add the account to "Owners"
+
+ *
