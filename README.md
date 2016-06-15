@@ -17,6 +17,6 @@ You will need Google Cloud Platform project with the following:
  * Create a new Google Cloud Platform project
 
  Under IAM & Admin in the popout menu, create a new Service Account named "engine". Select "Furnish a new private key" with the type JSON. Save this key as engine.json in the harness directory.
- ![alt text](img/create-sa.png = 200)
+ ![alt text](img/create-sa.png)
 
  *
