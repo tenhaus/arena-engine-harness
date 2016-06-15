@@ -21,3 +21,5 @@ You will need Google Cloud Platform project with the following:
  * Select "Permissions" and add the account to "Owners"
 
  * Go to Pub/Sub in the left popout and click the button to enabled the API
+
+ * Go to API Manager in the popout menu. Search for IAM and enabled "Google Identity and Access Management (IAM) API"
