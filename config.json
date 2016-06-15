@@ -1,18 +1,15 @@
 {
 
   "development": {
-    "projectId": "botpit-1134",
-    "routingTopic": "botpit-router-dev",
-    "routingSubscription": "pitmaster-dev",
-    "userBucket": "fighters-dev"
+    "projectId": "development-arena",
+    "routingTopic": "development-router",
+    "userBucket": "players"
   },
 
   "production": {
-    "key": "",
-    "projectId": "botpit-1134",
-    "routingTopic": "botpit-router",
-    "routingSubscription": "pitmaster",
-    "userBucket": "fighters"
+    "projectId": "production-arena",
+    "routingTopic": "production-router",
+    "userBucket": "players"
   }
 
 }
