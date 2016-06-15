@@ -3,12 +3,14 @@
   "development": {
     "projectId": "development-arena",
     "routingTopic": "development-router",
+    "routingSubscription": "development-router-subscription",
     "userBucket": "players"
   },
 
   "production": {
     "projectId": "production-arena",
     "routingTopic": "production-router",
+    "routingSubscription": "production-router-subscription",
     "userBucket": "players"
   }
 

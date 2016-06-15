@@ -20,4 +20,4 @@ You will need Google Cloud Platform project with the following:
 
  * Select "Permissions" and add the account to "Owners"
 
- *
+ * Go to Pub/Sub in the left popout and click the button to enabled the API
